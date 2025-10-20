@@ -11,12 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sajid-amin-ny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajid-amin-ny/" height="30" width="40" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/sajid-amin-ny/" target="_blank" rel="noreferrer" style="display:inline-block; vertical-align:middle; margin-right:8px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" style="display:inline-block; vertical-align:middle;" />
+  </a>
 
-  <!-- Website (replace the URL with your website) -->
-  <a href="https://sajidcodez.github.io/SajidCodez-Portfolio/" target="_blank" rel="noreferrer" style="margin-left:8px;">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/internet--v1.png" alt="Website" height="30" width="40" />
+  <a href="https://sajidcodez.github.io/SajidCodez-Portfolio/" target="_blank" rel="noreferrer" style="display:inline-block; vertical-align:middle; margin-left:8px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/internet--v1.png" alt="Website" height="30" width="40" style="display:inline-block; vertical-align:middle;" />
   </a>
 </p>
 

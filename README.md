@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidcodez&label=Profile%20views&color=0e75b6&style=flat" alt="sajidcodez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajidcodez" alt="sajidcodez" /></a> </p>
-
 - 📱 I’m currently working on [Activity Hub](https://github.com/ActivityHub-AI/ActivityHub)
 
 - 🌱 I’m currently learning **IOS/Android development (swift, react native)**

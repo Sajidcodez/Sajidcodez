@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidcodez&label=Profile%20views&color=0e75b6&style=flat" alt="sajidcodez" /> </p>
 
-- 📱 I’m currently working on [Activity Hub](https://github.com/ActivityHub-AI/ActivityHub)
+- 📱 I’m currently working on [Activity Hub](https://activityhub.org/)
 
 - 🌱 I’m currently learning **IOS/Android development (swift, react native)**
 

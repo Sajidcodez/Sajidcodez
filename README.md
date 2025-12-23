@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sajid Amin</h1>
+<h1 align="center">Hi 👋, I'm Sajid</h1>
 <h3 align="center">I’m a first generation Computer Science student at St. John’s University with interests in Full Stack Software Engineering, Mobile App Development, Artificial Intelligence, and Tech Consulting.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidcodez&label=Profile%20views&color=0e75b6&style=flat" alt="sajidcodez" /> </p>

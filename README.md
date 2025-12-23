@@ -19,7 +19,7 @@
   </a>
 
 
-  <a href="https://sajidcodez.github.io/SajidCodez-Portfolio/" target="_blank" rel="noreferrer" style="display:inline-block; vertical-align:middle; margin-left:8px;">
+  <a href="https://sajidcodez.github.io/Sajid.dev/" target="_blank" rel="noreferrer" style="display:inline-block; vertical-align:middle; margin-left:8px;">
     <img src="https://img.icons8.com/ios-filled/50/000000/internet--v1.png" alt="Website" height="30" width="40" style="display:inline-block; vertical-align:middle;" />
   </a>
 </p>

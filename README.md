@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **IOS/Android development (swift, react native)**
+- 🌱 I’m currently learning **Data Engineering (PySpark, SparkSQL, SnowFlake)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

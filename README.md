@@ -5,11 +5,6 @@
 
 - 📱 I’m currently working on [Activity Hub](https://activityhub.org/)
 
-
-
-
-
-
 - 🌱 I’m currently learning **Data Engineering (PySpark, SparkSQL, SnowFlake)**
 
 <h3 align="left">Connect with me:</h3>
@@ -64,7 +59,7 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
 </p>
 
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sajidcodez&show_icons=true&include_all_commits=true&count_private=true" alt="Sajidcodez's GitHub stats" />
 
 
 

@@ -59,7 +59,11 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
 </p>
 
+## 🔥 Contribution Activity
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sajidcodez&show_icons=true&include_all_commits=true&count_private=true" alt="Sajidcodez's GitHub stats" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=Sajidcodez" alt="GitHub Streak" />
 
 
 

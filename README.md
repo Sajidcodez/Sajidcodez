@@ -5,7 +5,7 @@
 
 - 📱 I’m currently working on [Activity Hub](https://activityhub.org/)
 
-- 🌱 I’m currently learning **Data Engineering (PySpark, Databricks, Snowflake)**
+- 🌱 I’m currently learning **Data Engineering (PySpark, Kafka, Databricks)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
